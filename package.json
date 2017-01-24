@@ -1,6 +1,6 @@
 {
   "name": "recursive-replace",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Replaces all occurrence of the given pattern in a file, recursively, until the pattern is not found.",
   "main": "./lib/index.js",
   "scripts": {
